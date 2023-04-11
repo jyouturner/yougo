@@ -1,4 +1,4 @@
-package yougo
+package datastructures
 
 type Stack []int
 

@@ -1,4 +1,4 @@
-package yougo
+package datastructures
 
 // go function to combine two sorted iterators
 type Iterator struct {

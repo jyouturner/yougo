@@ -1,4 +1,4 @@
-package yougo
+package datastructures
 
 // An IntHeap is a min-heap of ints.
 type IntHeap []int

@@ -1,4 +1,4 @@
-package yougo
+package datastructures
 
 // go function to find duplicate between two sorted lists
 func FindDuplicates(a, b []int) []int {
